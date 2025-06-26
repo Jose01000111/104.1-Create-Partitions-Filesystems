@@ -3,6 +3,16 @@
 ## 🛠️ What I Did in This Lab
 I created disk partitions using tools like fdisk, gdisk, and parted. Then, I applied filesystems using commands like mkfs.ext4, mkfs.xfs, and mkswap. Finally, I reviewed how Btrfs can support advanced features like compression and subvolumes
 
+I’ve included some helpful links to guide you through the lab and for studying afterward:
+
+[EXAM OBJECTIVE 104.1](https://www.lpi.org/our-certifications/exam-101-102-objectives/#104.1_Create_partitions_and_filesystems)
+
+[OBJ.104.1 NOTES]()
+
+[OBJ.104.1 LAB]()
+
+---
+
 ## 1️⃣ Manage MBR and GPT Partition Tables
 🔹 Use fdisk for MBR Partitioning
 
