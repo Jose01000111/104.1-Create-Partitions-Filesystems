@@ -13,6 +13,18 @@ I’ve included some helpful links to guide you through the lab and for studying
 
 ---
 
+# 0️⃣ ⚠️ The Errors I Encountered
+
+```bash
+Value out of range.
+No enough free sectors available.
+
+
+
+Press d — to delete a partition
+
+Repeat d until all partitions are gone (1–4)
+
 ## 1️⃣ Manage MBR and GPT Partition Tables
 🔹 Use fdisk for MBR Partitioning
 
