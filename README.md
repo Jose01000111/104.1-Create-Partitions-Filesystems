@@ -7,9 +7,9 @@ I’ve included some helpful links to guide you through the lab and for studying
 
 [EXAM OBJECTIVE 104.1](https://www.lpi.org/our-certifications/exam-101-102-objectives/#104.1_Create_partitions_and_filesystems)
 
-[OBJ.104.1 NOTES]()
+[OBJ.104.1 NOTES](https://1drv.ms/w/c/354f1c8d534fbced/ETg9TH7nsOVCmbJRUaji1mwBrlXbYgzaXKZMexN26yV28Q?e=GuREk1)
 
-[OBJ.104.1 LAB]()
+[OBJ.104.1 LAB](https://1drv.ms/w/c/354f1c8d534fbced/ERhzy-wnCmZBuzeRlk3H3OgBfOZfNC9XDek2lCcFYhIDuw?e=3fkYOg)
 
 ---
 
