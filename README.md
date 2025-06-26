@@ -14,16 +14,9 @@ I’ve included some helpful links to guide you through the lab and for studying
 ---
 
 # 0️⃣ ⚠️ The Errors I Encountered
-
-```bash
 Value out of range.
 No enough free sectors available.
 
-
-
-Press d — to delete a partition
-
-Repeat d until all partitions are gone (1–4)
 
 ## 1️⃣ Manage MBR and GPT Partition Tables
 🔹 Use fdisk for MBR Partitioning
@@ -39,19 +32,12 @@ Repeat d until all partitions are gone (1–4)
 
 🔹 Format to VFAT (FAT32)
 
-🔹 Format to exFAT
-
 ## 3️⃣ Create and Enable Swap Space
 🔹 Create a Swap Partition
 
 🔹 Verify Swap
 
-## 4️⃣ Explore Btrfs (Basic Feature Knowledge)
-🔹 Create a Btrfs Filesystem
-
-🔹 Mount with Compression (zlib or lzo)
-
-🔹 Create a Subvolume
+---
 
 ## 🎯 What I Learned
 In this lab, I learned how to manage both MBR and GPT partition tables using CLI tools. I practiced creating and formatting different filesystems and enabling swap. I also got a hands-on introduction to Btrfs and its advanced features like compression and subvolumes. This lab improved my confidence with disk preparation and partition management in a Linux environment. 
